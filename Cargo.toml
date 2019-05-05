@@ -5,3 +5,13 @@ authors = ["Dan Everton <dan@iocaine.org>"]
 edition = "2018"
 
 [dependencies]
+docopt = "1"
+image = "0.19"
+kamadak-exif = "0.3"
+serde = "1"
+serde_derive = "1"
+walkdir = "2"
+
+[dependencies.img_hash]
+version = "2.0"
+features = ["rust-image"]
