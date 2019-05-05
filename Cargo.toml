@@ -1,0 +1,7 @@
+[package]
+name = "rdedup"
+version = "0.1.0"
+authors = ["Dan Everton <dan@iocaine.org>"]
+edition = "2018"
+
+[dependencies]
